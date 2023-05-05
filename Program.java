@@ -226,7 +226,7 @@ public class Program {
  System.out.println("с 1 операцией (+, -, *, /)");
  System.out.println("для целых числ от 0 до 10,");
  System.out.println("принимает арабские и римские цифры.");
- System.out.println("Успешных рассчетов!");
+ System.out.println("Успешных расчетов!");
  System.out.println("_________");
  int num1, num2, sum, sub, mul, div;
  String sumRom, subRom, mulRom, divRom;
